@@ -55,7 +55,7 @@ component的配置可选值
 
 BasicLayout: 框架主体，RouteView：路由无页面，view目录下的页面
 
-具体配置请参照文档： [传送门])(http://www.lelebk.com/docs/guide/essentials/router-and-nav.html)
+具体配置请参照文档： [传送门](http://www.lelebk.com/docs/guide/essentials/router-and-nav.html)
 
 ## 交流
 
